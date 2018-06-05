@@ -4,6 +4,8 @@ git add : adds the file for the next commit
 
 git status : shows the status of recent files
 
+git log : displays the log of versions .
+
 git commit -m "commit successful" : commits with the given message
 
 git checkout -b new_branch : creats a branch from the current directory
