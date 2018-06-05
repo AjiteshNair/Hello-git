@@ -1,0 +1,17 @@
+git init : used to initialize a repository
+
+git add : adds the file for the next commit
+
+git status : shows the status of recent files
+
+git commit -m "commit successful" : commits with the given message
+
+git checkout -b new_branch : creats a branch from the current directory
+
+git checkout id : checks a file out of the folder.
+
+git remote add identifier repolink : names the link with varname
+
+git push file branchname : uploads the file in that branch.
+
+git pull file branchname : downloads file from that branch.
